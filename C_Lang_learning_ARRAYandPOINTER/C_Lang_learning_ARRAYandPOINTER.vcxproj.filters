@@ -18,5 +18,35 @@
     <ClCompile Include="ConstLiteral.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Type_Casting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoDemension_Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Learn1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Learn2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Learn3_Function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Learn4_Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerAndArrayFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublePointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Question_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Question2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
